@@ -84,7 +84,7 @@
             <a href="#" id="m_2" title="Quiénes somos"></a>
             <a href="#" id="m_5" title="Nuestras tiendas"></a>
             <a href="#" id="m_7" title="Consejos"></a>
-            <a href="#" id="m_8" title="Bicis Robadas"></a>
+            <a href="#" id="m_robadas" title="Bicis Robadas"></a>
         </div>
         <div class="buscador">
         <input type="text" id="palabra" value="Escribe aquí tu búsqueda" onclick="this.value=''" onkeypress="return clickenter(event)">

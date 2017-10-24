@@ -1610,3 +1610,9 @@ box-shadow: 1px 1px 12px 3px #525252;
 .scroll {
 	overflow-y: scroll; 
 }
+#m_robadas
+{
+	/*width: 127px;*/
+	width: 115px;
+	background: url(images/robadas.jpg) no-repeat;
+}
